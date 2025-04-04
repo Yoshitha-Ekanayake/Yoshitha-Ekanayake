@@ -14,4 +14,4 @@ Hope my projects will be entertaining! 😎
 
 python , HTML
 
-![html5](https://github.com/user-attachments/assets/64e2ede3-789b-42d7-aa8b-c9a56cf27d81)
+
