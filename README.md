@@ -8,3 +8,8 @@ One day, my dream is to hold one of the highest executive positions in a leading
 I'm a very extroverted who loves excitement in life 🤠
 
 Hope my projects will be entertaining! 😎
+
+
+## Languages
+
+python , HTML
