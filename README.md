@@ -13,5 +13,6 @@ Hope my projects will be entertaining! 😎
 ## Languages
 * python 
 * HTML
+* Figma
 
 
